@@ -3,3 +3,5 @@ test file
 from new branch called feature1
 
 git 
+
+adding more lines for conflict
