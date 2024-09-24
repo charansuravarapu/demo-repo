@@ -4,4 +4,7 @@ from new branch called feature1
 
 git 
 
+
+adding more lines in branch main
+
 adding more lines for conflict
